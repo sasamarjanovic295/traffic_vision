@@ -1,1 +1,17 @@
 /env
+kaggle.json
+/data2
+data2.py
+main.py
+model2.py
+test.jpg
+test.py
+utilis1.py
+yolov8n.pt
+/yolov8
+/tsd_runs
+/traffic_signs_detector
+/traffic_lights_detection
+/test
+/runs
+/__pycache__
